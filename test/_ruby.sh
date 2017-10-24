@@ -2,8 +2,8 @@
 source /usr/local/rvm/scripts/rvm
 
 
-echo "rvm use jruby-9.1.12"
-rvm use jruby-9.1.12
+echo "rvm use jruby-9.1.13"
+rvm use jruby-9.1.13
 printf "\n"
 
 echo "rvm use jruby-9.0.0"
@@ -15,14 +15,14 @@ rvm use jruby-1.7.27
 printf "\n"
 
 
-echo "rvm use 2.2.7"
-rvm use 2.2.7
+echo "rvm use 2.2.8"
+rvm use 2.2.8
 printf "\n"
 
-echo "rvm use 2.3.4"
-rvm use 2.3.4
+echo "rvm use 2.3.5"
+rvm use 2.3.5
 printf "\n"
 
-echo "rvm use 2.4.1"
-rvm use 2.4.1
+echo "rvm use 2.4.2"
+rvm use 2.4.2
 printf "\n" 
