@@ -2,6 +2,10 @@
 source /usr/local/rvm/scripts/rvm
 
 
+echo "rvm use jruby-9.1.16"
+rvm use jruby-9.1.16
+printf "\
+
 echo "rvm use jruby-9.1.15"
 rvm use jruby-9.1.15
 printf "\n"
