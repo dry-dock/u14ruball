@@ -6,7 +6,7 @@ Shippable CI image for Ruby on Ubuntu 14.04 with all services. Available version
 1. 2.2.8
 2. 2.3.6
 3. 2.4.3
-4. 2.5.0
+4. 2.5.1
 5. jruby 1.7.27
 6. jruby 9.1.16
 
