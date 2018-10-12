@@ -5,10 +5,6 @@ echo "rvm use jruby-9.2.0.0"
 rvm use jruby-9.2.0.0
 printf "\
 
-echo "rvm use jruby-1.7.27"
-rvm use jruby-1.7.27
-printf "\n"
-
 echo "rvm use 2.3.7"
 rvm use 2.3.7
 printf "\n"
