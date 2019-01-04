@@ -6,7 +6,8 @@ Shippable CI image for Ruby on Ubuntu 14.04 with all services. Available version
 1. 2.3.8
 2. 2.4.5
 3. 2.5.3
-4. jruby 9.2.3.0
+4. 2.6.0
+4. jruby 9.2.5.0
 
 
 u14ruball Docker Hub repo: [drydock/u14ruball](https://hub.docker.com/r/drydock/u14ruball/)
