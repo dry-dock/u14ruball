@@ -1,8 +1,8 @@
 #!/bin/bash -e
 source /usr/local/rvm/scripts/rvm
 
-echo "rvm use jruby-9.2.5.0"
-rvm use jruby-9.2.5.0
+echo "rvm use jruby-9.2.6.0"
+rvm use jruby-9.2.6.0
 printf "\
 
 echo "rvm use 2.3.8"
@@ -17,6 +17,6 @@ echo "rvm use 2.5.3"
 rvm use 2.5.3
 printf "\n"
 
-echo "rvm use 2.6.0"
-rvm use 2.6.0
+echo "rvm use 2.6.1"
+rvm use 2.6.1
 printf "\n"
